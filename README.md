@@ -1,7 +1,7 @@
 # Profile Summary Cards
 
 > [!NOTE]
-> For a comprehensive, step-by-step tutorial on how to set up this theme of profile summary card, please visit the main project repository [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards.git). You can also fork this repository to create your own workflows.
+> For a comprehensive, step-by-step tutorial on how to set up this theme of profile summary card on your GitHub profile, please visit the main project repository [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards.git). You can also fork this repository to create your own workflows.
 
   This project features five profile summary cards:
 
